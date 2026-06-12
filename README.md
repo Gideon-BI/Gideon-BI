@@ -9,7 +9,7 @@ I started out as a **Data Analyst**, but quickly expanding my scope — graduall
 ---
 
 ### 🚀 What I'm Currently Working On
-- 🏥 **End-to-End Snowflake & dbt AirBnB Big Data Project**
+- 🏥 **End-to-End dbt AirBnB Big Data Project**
 
 ---
 
@@ -23,7 +23,7 @@ I started out as a **Data Analyst**, but quickly expanding my scope — graduall
 ---
 
 ### 🌐 Let's Connect
-- 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gideon_Oquongudo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gideon-oquongudo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gideon_Oquongudo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gideon-oquongudo/)
 [![Email](https://img.shields.io/badge/Email-gideonoquogudo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gideonoquogudo@gmail.com)
 
 ---
