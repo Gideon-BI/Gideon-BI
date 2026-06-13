@@ -4,7 +4,7 @@
 
 I operate at the intersection of Data and Business Intelligence, transforming raw, complex datasets into structured, insight-ready assets that drive business decisions.
 
-I started out as a **Data Analyst**, but quickly expanding my scope — gradually shifting focus to building **building pipelines, modeling data, and enabling scalable analytics systems** that empower both report creators and decision-makers.
+I started out as a **Data Analyst**, but quickly expanding my scope to Analytics Engineering — gradually shifting focus to building **building pipelines, modeling data, and enabling scalable analytics systems** that empower both report creators and decision-makers.
 
 ---
 
