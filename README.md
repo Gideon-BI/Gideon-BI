@@ -9,7 +9,7 @@ I started out as a **Data Analyst**, but quickly expanding my scope to Analytics
 ---
 
 ### 🚀 What I'm Currently Working On
-- 🏥 **End-to-End dbt AirBnB Big Data Project**
+- 🏥 **End-to-End stock market performance Analytics with Python**
 
 ---
 
